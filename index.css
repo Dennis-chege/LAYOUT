@@ -1,0 +1,45 @@
+header {
+  background-color:navy;
+  padding: 40px;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+}
+#nav {
+  background-color:orange;
+  float: left;
+  width:30%;
+  height: 300px;
+}
+#navigation {
+  list-style-type:none;
+ color: white;}
+a {
+  color: white;
+  padding:10px;
+  text-decoration: none;
+}
+li {height:45px;}
+article {background-color: green;
+color: white;
+height: 300px;
+float: right;
+width: 70%;}
+footer {color:white;
+background-color: black;
+text-align: center;
+padding: 30px;}
+.topnav {
+  background-color:black;
+  overflow: hidden;
+}
+.topnav a {
+  padding:16px;
+  font-size:18px;
+  color:white;
+  float: left;
+  text-decoration: none;
+}
+footer p {}
+.topnav a:hover {background-color:white;
+color:black;}
